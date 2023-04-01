@@ -4,7 +4,10 @@
 
 ## Workflow
 ![styling](figs/styling.png)
-![styling](figs/webapp.mp4)
+
+
+https://user-images.githubusercontent.com/116874799/229278450-3a708320-5373-4aab-b940-ab624adf880b.mp4
+
 
 ## Result
 
