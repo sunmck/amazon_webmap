@@ -1,7 +1,7 @@
 # Web Map of the Amazon Rainforest
 
 ## Introduction
-In this project, a Web App displaying data of the Amazon Rainforest was developed using Esri's ArcGIS Pro and ArcGIS Online. The idea and part of the implementation were established within an Esri mapathon from the 28.04.-31.04. in Berlin in collaboration with the WWF Germany. The application will be published by the WWF in the following weeks on https://globil.panda.org/ when it has been reviewed. Until then, the video showing its funcionalities will have to subsitute a more interactive user experience. 
+In this project, a Web App displaying data of the Amazon Rainforest was developed using Esri's ArcGIS Pro and ArcGIS Online. In the application, a user can interactively view geographic data with a focus on environmental conservation of the Amazon Rainforest, toggle different thematic layers and compare its characteristics to other regions. Aim is to provide an interface to explore the WWF Priority Regions by interested users. The idea and part of the implementation were established within an Esri mapathon from the 28.04.-31.04. in Berlin in collaboration with the WWF Germany. The application will be published by the WWF in the following weeks on https://globil.panda.org/ when it has been reviewed. Until then, the following video showing its funcionalities will have to subsitute a more interactive user experience:
 
 https://user-images.githubusercontent.com/116874799/229278450-3a708320-5373-4aab-b940-ab624adf880b.mp4
 
