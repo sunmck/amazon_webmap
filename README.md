@@ -23,8 +23,6 @@ Lastly, a Web App was created using the ArcGIS Experience Builder. This step is 
 
 The Amazon rainforest extends over nine South American states, the largest share located in Brazil. The WWF priority regions are located in Bazil, Venezuela, Columbia, Ecuador and Peu. It is the world's largest wet tropical rain forest and home to more than 40000 species of plants, 427 species of mammals, 1294 species of birds and more than 3000 species of fish. This can be seen in the Global Safety Net High Biodiversity Area Layer (https://www.globalsafetynet.app/). However, their existence is threatened by drivers of Change and Threat such as deforestation due to agriculture and mining and other serious encroachments that continue apace. Data from the Global Forest Watch (https://www.globalforestwatch.org/) shows the loss in tree cover extent between 2000 and 2017 as well as the Global Forest Fragmentation Change and Hot Spots of Deforestation. Deforestation does not only lead to a loss of tree cover and thus valuable carbon storage, but also to a loss of wildlife habitats and corridors. Additionally, the main drivers of the deforestation can be viewed in the web app, such as the global distribution of cattle and cropland areas, both surveyed by the WWF.
 
-## Discussion
-
-
-
 ## Conclusion
+
+The web application provides a user-friendly, informative web experience to explore data of the Amazon rainforest. Different layers are grouped thematically can be toggled on and off by preference. The creation of the application using ArcGIS Online is very convenient. The only downside is that its usage requires a licence. As future work, open-source software with similar functionalities could be explored, e.g. the Web App Builder for QGIS. This project was created in the collaboration with Esri and the WWF. This opportunity motivated me to explore software and applications of GIS outside of the course content of the MB1 lecture. I hope that it is a fun, alternate project and complements the submissions of my fellow students.
