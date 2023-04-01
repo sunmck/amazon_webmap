@@ -21,6 +21,10 @@ Lastly, a Web App was created using the ArcGIS Experience Builder. This step is 
 
 ## Results
 
+The Amazon rainforest extends over nine South American states, the largest share located in Brazil. The WWF priority regions are located in Bazil, Venezuela, Columbia, Ecuador and Peu. It is the world's largest wet tropical rain forest and home to more than 40000 species of plants, 427 species of mammals, 1294 species of birds and more than 3000 species of fish. This can be seen in the Global Safety Net High Biodiversity Area Layer (https://www.globalsafetynet.app/). However, their existence is threatened by drivers of Change and Threat such as deforestation due to agriculture and mining and other serious encroachments that continue apace. Data from the Global Forest Watch (https://www.globalforestwatch.org/) shows the loss in tree cover extent between 2000 and 2017 as well as the Global Forest Fragmentation Change and Hot Spots of Deforestation. Deforestation does not only lead to a loss of tree cover and thus valuable carbon storage, but also to a loss of wildlife habitats and corridors. Additionally, the main drivers of the deforestation can be viewed in the web app, such as the global distribution of cattle and cropland areas, both surveyed by the WWF.
+
 ## Discussion
+
+
 
 ## Conclusion
